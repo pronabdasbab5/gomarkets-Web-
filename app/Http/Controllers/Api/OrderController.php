@@ -239,7 +239,7 @@ class OrderController extends Controller
 
         $data [] = [
             'order_id' => $order_auto_id,
-            'total' => ceil($grand_total)
+            'total' => ($grand_total * 100)
         ];
 
         $response = [
