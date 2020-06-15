@@ -81,10 +81,10 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="#"><i class="fa fa-bar-chart-o"></i> <span class="nav-label">Manage Delivery</span><span class="fa arrow"></span></a>
+                    <a href="#"><i class="fa fa-bar-chart-o"></i> <span class="nav-label">Manage Delivery Boy</span><span class="fa arrow"></span></a>
                     <ul class="nav nav-second-level collapse">
-                        <li><a href="#">New Delivery</a></li>
-                        <li><a href="#">All Delivery</a></li>
+                        <li><a href="#">New Delivery Boy</a></li>
+                        <li><a href="#">All Delivery Boy</a></li>
                     </ul>
                 </li>
                 <li>
